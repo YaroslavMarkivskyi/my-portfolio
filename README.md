@@ -125,16 +125,9 @@
 
 ---
 
-## 📬 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/yaroslav-markivskyi)
-- Email: your@email.com
-- Portfolio: [yaroslav.github.io](https://yaroslav.github.io)
-
----
 
 ## 🖥️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaroslav-markivskyi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavMarkivskyi&show_icons=true&theme=radical" />
 </p>
