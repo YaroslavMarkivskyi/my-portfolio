@@ -15,6 +15,10 @@
   🚀 Always learning, always coding
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YaroslavMarkivskyi&label=Profile%20views&color=0e75b6&style=flat" alt="YaroslavMarkivskyi" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -29,24 +33,18 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-`Python` `JavaScript` `TypeScript` `SQL`
-
-### ⚙️ Backend
-`Django` `DRF` `FastAPI` `Django Channels` `Celery` `Redis` `Flask` `WebSockets` `PyTest` `Asyncio` `AioHttp` `Pydantic`
-
-### 💻 Frontend
-`React` `Redux (RTK Query)` `Zod` `React Hook Form` `HTML` `CSS` `Material UI`
-
-### 🗄️ Databases
-`PostgreSQL` `MySQL` `SQLite` `Redis`
-
-### ☁️ Cloud & DevOps
-`AWS (ECS, ECR, RDS, Lambda, S3, SNS, SQS, VPC, Cloudfront, IAM)`  
-`Docker` `GitHub Actions` `GitLab CI/CD` `Terraform` `Datadog`
-
-### 🧰 Tools & Practices
-`CI/CD` `IaC` `Microservices` `Monorepo` `OOP` `TDD` `Clean Code` `Agile/Scrum`
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="ts"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
+</p>
 
 ---
 
@@ -124,7 +122,6 @@
 - 🇺🇦 Native — Ukrainian
 
 ---
-
 
 ## 🖥️ GitHub Stats
 
