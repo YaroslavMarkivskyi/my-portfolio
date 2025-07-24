@@ -1,8 +1,3 @@
-<!-- Header з фото -->
-<p align="center">
-  <img src="image1.png" alt="PicturePython Developer" width="150" height="150" style="border-radius:50%;">
-</p>
-
 <h1 align="center">Hi, I'm Yaroslav 👋</h1>
 
 <p align="center">
@@ -43,7 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws"/>
+
 </p>
 
 ---
@@ -122,16 +118,4 @@
 - 🇺🇦 Native — Ukrainian
 
 ---
-
-## 🖥️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavMarkivskyi&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YaroslavMarkivskyi&theme=radical&margin-w=15&margin-h=15&column=4" />
-</p>
-<p align="center">
-  <img src="https://github.com/YaroslavMarkivskyi/YaroslavMarkivskyi/raw/output/github-contribution-grid-snake.svg" />
-</p>
 
