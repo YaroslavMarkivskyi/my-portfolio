@@ -128,3 +128,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YaroslavMarkivskyi&show_icons=true&theme=radical" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YaroslavMarkivskyi&theme=radical&margin-w=15&margin-h=15&column=4" />
+</p>
+<p align="center">
+  <img src="https://github.com/YaroslavMarkivskyi/YaroslavMarkivskyi/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
